@@ -2,7 +2,7 @@
 
 # Predicted the Heart Disease using Machine Learning Algorithms !
 
-Cardiovascular diseases (CVD) have now become the leading cause of mortality in India.
+Cardiovascular diseases (CVD) have now become the leading cause of mortality in India and this is not good.
 
 A quarter of all mortality is attributable to CVD.
 
